@@ -1,32 +1,32 @@
-Àı×Ó
+ä¾‹å­
 	PlayerExample example=new PlayerExample();
-	µÈÓÚPlatformId=5465465614
+	ç­‰äºPlatformId=5465465614
 	example.or().andPlatformIdEqualTo("5465465614");
 
-¸÷ÖÖ·½·¨
+å„ç§æ–¹æ³•
 
-	ÊÇnull
+	æ˜¯null
 		IsNull
 		
-	²»ÊÇnull
+	ä¸æ˜¯null
 		IsNotNull
 		
-	µÈÓÚ
+	ç­‰äº
 		EqualTo
 		
-	²»µÈÓÚ
+	ä¸ç­‰äº
 		NotEqualTo
 		
-	´óÓÚ
+	å¤§äº
 		GreaterThan
 		
-	´óÓÚµÈÓÚ
+	å¤§äºç­‰äº
 		GreaterThanOrEqualTo
 		
-	Ğ¡ÓÚ
+	å°äº
 		LessThan
 		
-	Ğ¡ÓÚµÈÓÚ
+	å°äºç­‰äº
 		LessThanOrEqualTo
 		
 	like
@@ -41,9 +41,9 @@
 	not in
 		NotIn
 		
-	between BETWEEN 'ÖµÒ»' AND 'Öµ¶ş';
+	between BETWEEN 'å€¼ä¸€' AND 'å€¼äºŒ';
 		Between
 		
-	not between BETWEEN 'ÖµÒ»' AND 'Öµ¶ş';
+	not between BETWEEN 'å€¼ä¸€' AND 'å€¼äºŒ';
 		NotBetween
 
