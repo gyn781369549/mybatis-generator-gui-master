@@ -1,0 +1,49 @@
+例子
+	PlayerExample example=new PlayerExample();
+	等于PlatformId=5465465614
+	example.or().andPlatformIdEqualTo("5465465614");
+
+各种方法
+
+	是null
+		IsNull
+		
+	不是null
+		IsNotNull
+		
+	等于
+		EqualTo
+		
+	不等于
+		NotEqualTo
+		
+	大于
+		GreaterThan
+		
+	大于等于
+		GreaterThanOrEqualTo
+		
+	小于
+		LessThan
+		
+	小于等于
+		LessThanOrEqualTo
+		
+	like
+		Like
+		
+	no like
+		NotLike
+		
+	in 
+		In
+		
+	not in
+		NotIn
+		
+	between BETWEEN '值一' AND '值二';
+		Between
+		
+	not between BETWEEN '值一' AND '值二';
+		NotBetween
+
